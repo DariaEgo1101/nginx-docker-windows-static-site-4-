@@ -72,4 +72,4 @@ docker compose down
 
 ## Видео
 
-Ссылка на видео с демонстрацией работы сайта: https://drive.google.com/file/d/1hdoig_nV1XiECMda9dIWY8djGTFRhcIz/view?usp=drive_link
+Ссылка на видео с демонстрацией работы сайта: [https://drive.google.com/file/d/1hdoig_nV1XiECMda9dIWY8djGTFRhcIz/view?usp=drive_link](https://drive.google.com/file/d/1nCqliy9lZ9va0EUgHxuAvPH6CWhPwPBD/view?usp=drive_link)
